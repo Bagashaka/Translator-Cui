@@ -56,8 +56,5 @@ def menu():
             exit()
         else:
             print("Pilihan tidak ada")
-
-
-if __name__ == '__main__':
-    titles()
-    menu()
+titles()
+menu()
